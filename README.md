@@ -1,7 +1,6 @@
 # CPS610 - Database Systems II
 
-Assignments covering advanced database concepts, from PL/SQL and object 
-types to concurrency control, NoSQL, and distributed data processing.
+Assignments covering embedded DB languages (e.g. JDBC class libraries) and Embedded SQL, Transaction management, Distributed Databases, Transaction Concurrency Control, Concurrency Control through Locking/protocol and time stamps, Object-Oriented and Object-Relational Database Systems, non-structured and NOSQL databases (e.g. Mongo DB). Introduction to big data management, Map-Reduce and Hadoop.
 
 ## Assignments
 
